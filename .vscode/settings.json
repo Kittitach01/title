@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/bf03c71f-ac6f-405f-87fa-d37ae6606584/resourceGroups/rg-poc-coop-solutions/providers/Microsoft.Web/sites/WebAppContoso-1m",
+    "appService.deploySubpath": "."
+}
